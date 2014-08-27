@@ -6,4 +6,8 @@ public class Main {
         //Exit with 0
         System.exit(0);
     }
+
+    private void doNothing(){
+
+    }
 }
